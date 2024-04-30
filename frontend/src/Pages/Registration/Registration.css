@@ -1,0 +1,20 @@
+.auth-page-container{
+    text-align: center;
+}
+
+.BackgroundBar{
+    width: 100%;
+    margin-top: 120px;
+}
+
+#BackgroundBar{
+    position: absolute;
+    z-index: 1;
+    
+    left: 0;
+}
+
+#authForm{
+    position: absolute;
+    z-index: 2;
+}

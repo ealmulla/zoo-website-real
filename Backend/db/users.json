@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+            "email": "tes@yahho.com",
+            "password": "123",
+            "id": "7320",
+            "username": "elmula"
+        },
+        {
+            "email": "tes@yahho.com",
+            "password": "123",
+            "id": "7320",
+            "username": "elmula"
+        },
+        {
+            "email": "woeking@yhahoo.com",
+            "password": "elma123",
+            "id": "aac9228972614069aef117ee2df3e14c",
+            "username": "woeking"
+        },
+        {
+            "email": "vgj@yahoo/.com",
+            "password": "elma123",
+            "id": "14ac41fade21468cad3dac1e6a80698f",
+            "username": "vgj"
+        },
+        {
+            "email": "vgsj@yahoo/.com",
+            "password": "elma123",
+            "id": "6efb6a4c79554901b900812c75a63a38",
+            "username": "vgsj"
+        },
+        {
+            "email": "test@gmail.com",
+            "password": "elma123",
+            "id": "9897a61464e6419ca151bbcae22887e5",
+            "username": "test"
+        },
+        {
+            "email": "testFront@gmail.com",
+            "password": "123",
+            "id": "19eb81e9982a46dfb159def20ba69d01",
+            "username": "testFront"
+        },
+        {
+            "email": "TestLog@gmail.com",
+            "password": "test123",
+            "id": "530e0d1aa0154882a7f3021f7dcf1830",
+            "username": "TestLog"
+        },
+        {
+            "email": "testLog2@gmail.com",
+            "password": "test123",
+            "id": "2ae8d55d18b04befaae0fcec213d7c24",
+            "username": "testLog2"
+        },
+        {
+            "email": "testLogFrontend@gmail.com",
+            "password": "test123",
+            "id": "a49e9a353ea847d4821fd70fd64d99cc",
+            "username": "testLogFrontend"
+        },
+        {
+            "email": "Demo@gmail.com",
+            "password": "Test123",
+            "id": "6a155afd42354bff8ae7540759f76192",
+            "username": "Demo"
+        }
+    ]
+}

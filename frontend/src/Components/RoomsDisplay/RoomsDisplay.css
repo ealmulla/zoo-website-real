@@ -1,0 +1,28 @@
+.smallImg {
+  height: 200px;
+  width: auto;
+}
+
+.bs {
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  background-color:rgba(171, 197, 60, 1);
+  display: flex;
+  margin-left: 300px;
+}
+
+.bigImg{
+  height: 400px;
+  width: auto;
+}
+
+.col{
+  background-color:rgba(171, 197, 60, 1);
+}
+
+#col{
+  background-color: rgba(255, 166, 125, 1);
+}
+
+.col-md-4 {
+  align-content: center;}
+

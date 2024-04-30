@@ -1,0 +1,37 @@
+.formContainer {
+  width: 600px;
+  height: 700px;
+  background-color: rgba(171, 197, 60, 1);
+  border-radius: 25px;
+  margin-left: 100%;
+  font-family: "Tahoma";
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.formInput {
+  margin-top: 100px;
+}
+.formInputField {
+  height: 40px;
+  width: 260px;
+  border: none;
+  font-size: 20px;
+  border-radius: 10px;
+}
+label {
+  display: block;
+  margin-left: 30%;
+  margin-right: auto;
+  width: 80px;
+  font-family: "Tahoma";
+  font-size: 22px;
+}
+.ConfirmButton {
+  width: 100px;
+  height: 40px;
+  border: none;
+  background-color: rgba(252, 255, 83);
+  border-radius: 10px;
+}

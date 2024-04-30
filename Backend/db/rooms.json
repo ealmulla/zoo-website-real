@@ -1,0 +1,263 @@
+[
+    {
+      "roomName": "Lion",
+      "roomNumber": 101,
+      "maxPeople": 2,
+      "costPerDay": 60,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Cozy room perfect for a couple's getaway."
+    },
+    {
+      "roomName": "Elephant",
+      "roomNumber": 102,
+      "maxPeople": 3,
+      "costPerDay": 70,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Spacious room with a beautiful view of the city."
+    },
+    {
+      "roomName": "Tiger",
+      "roomNumber": 103,
+      "maxPeople": 4,
+      "costPerDay": 55,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Comfortable room suitable for a small family."
+    },
+    {
+      "roomName": "Giraffe",
+      "roomNumber": 104,
+      "maxPeople": 2,
+      "costPerDay": 75,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Luxurious room with modern amenities."
+    },
+    {
+      "roomName": "Zebra",
+      "roomNumber": 105,
+      "maxPeople": 3,
+      "costPerDay": 60,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Spacious room with ample space for a family."
+    },
+    {
+      "roomName": "Monkey",
+      "roomNumber": 106,
+      "maxPeople": 2,
+      "costPerDay": 70,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Chic room perfect for a small group."
+    },
+    {
+      "roomName": "Kangaroo",
+      "roomNumber": 107,
+      "maxPeople": 3,
+      "costPerDay": 55,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Quaint room with modern amenities."
+    },
+    {
+      "roomName": "Panda",
+      "roomNumber": 108,
+      "maxPeople": 4,
+      "costPerDay": 75,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Elegant room with a serene ambiance."
+    },
+    {
+      "roomName": "Hippo",
+      "roomNumber": 109,
+      "maxPeople": 2,
+      "costPerDay": 65,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Tranquil room with modern amenities."
+    },
+    {
+      "roomName": "Leopard",
+      "roomNumber": 110,
+      "maxPeople": 3,
+      "costPerDay": 70,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Modern room with minimalist design."
+    },
+    {
+      "roomName": "Gorilla",
+      "roomNumber": 111,
+      "maxPeople": 4,
+      "costPerDay": 55,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Sleek room with comfortable amenities."
+    },
+    {
+      "roomName": "Rhino",
+      "roomNumber": 112,
+      "maxPeople": 2,
+      "costPerDay": 75,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Rustic room with earthy tones."
+    },
+    {
+      "roomName": "Bear",
+      "roomNumber": 113,
+      "maxPeople": 3,
+      "costPerDay": 60,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Cozy room with warm ambiance."
+    },
+    {
+      "roomName": "Wolf",
+      "roomNumber": 114,
+      "maxPeople": 2,
+      "costPerDay": 70,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Elegant room with contemporary design."
+    },
+    {
+      "roomName": "Fox",
+      "roomNumber": 115,
+      "maxPeople": 3,
+      "costPerDay": 55,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Quaint room with cozy furnishings."
+    },
+    {
+      "roomName": "Deer",
+      "roomNumber": 116,
+      "maxPeople": 4,
+      "costPerDay": 75,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Charming room with scenic view."
+    },
+    {
+      "roomName": "Tiger",
+      "roomNumber": 117,
+      "maxPeople": 2,
+      "costPerDay": 65,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Luxurious room with panoramic view."
+    },
+    {
+      "roomName": "Elephant",
+      "roomNumber": 118,
+      "maxPeople": 3,
+      "costPerDay": 70,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Stylish room with vibrant decor."
+    },
+    {
+      "roomName": "Lion",
+      "roomNumber": 119,
+      "maxPeople": 4,
+      "costPerDay": 55,
+      "imgUrl": [
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "deluxe",
+      "description": "Extravagant room with lavish amenities."
+    },
+    {
+      "roomName": "Zebra",
+      "roomNumber": 120,
+      "maxPeople": 2,
+      "costPerDay": 75,
+      "imgUrl": [
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "roomType": "regular",
+      "description": "Soothing room with contemporary decor."
+    }
+  ]
+  
